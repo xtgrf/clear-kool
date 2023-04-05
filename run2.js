@@ -1,3 +1,3 @@
 #!/bin/sh
-UUID=${UUID:-'cdb0aa7d-5be3-4669-83dd-ed9fe1f99a5f'}
+UUID=${UUID:-'0e057a24-4dad-4825-acce-1bafc1cfbd8c'}
 sed -i "s#UUID#$UUID#g" ./config-vmess.json
